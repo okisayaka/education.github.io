@@ -3,7 +3,7 @@
   - [利用ガイド・参加方法](01_利用ガイド.md)
 
 - 訳文一覧（採用済み）
-  - [哲学（Philosophie）](articles/philosophie.md)
+  - [アート／技術（ART）(articles/アート（技術、ART）.md)]
   - [天文学（Astronomie）](articles/astronomie.md)
   - [音楽（Musique）](articles/musique.md)
   - [物理学（Physique）](articles/physique.md)
