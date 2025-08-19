@@ -6,8 +6,6 @@
   - [アート／技術（ART）](articles/アート（技術、ART）.md)
   - [コレージュ（COLLEGE）](articles/コレージュ（COLLEGE）.md)
   - [ペダゴーグ（PEDAGOGUE）](articles/ペダゴーグ（PEDAGOGUE）.md)
-  - [物理学（Physique）](articles/physique.md)
-  - [政治（Politique）](articles/politique.md)
 
 - 原文と翻訳案
   - Philosophie
