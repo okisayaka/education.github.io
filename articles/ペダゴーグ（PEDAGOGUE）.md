@@ -1,4 +1,5 @@
-[PÉDAGOGUE](http://enccre.academie-sciences.fr/encyclopedie/article/v12-420-0/), (Littérat.), vol. XII (1765), p. 234b
+# ペダゴーグ（PÉDAGOGUE）
+## [PÉDAGOGUE](http://enccre.academie-sciences.fr/encyclopedie/article/v12-420-0/), (Littérat.), vol. XII (1765), p. 234b
 
 ***
 
