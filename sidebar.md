@@ -4,7 +4,7 @@
 
 - 訳文一覧（採用済み）
   - [アート／技術（ART）](articles/アート（技術、ART）.md)
-  - [天文学（Astronomie）](articles/astronomie.md)
+  - [コレージュ（COLLEGE）](articles/コレージュ（COLLEGE）.md)
   - [音楽（Musique）](articles/musique.md)
   - [物理学（Physique）](articles/physique.md)
   - [政治（Politique）](articles/politique.md)
