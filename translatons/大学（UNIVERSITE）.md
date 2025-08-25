@@ -1,5 +1,5 @@
-大学（UNIVERSITÉ), 
-UNIVERSITÉ, Vol. 17 (1765), pp. 406-408
+# 大学（UNIVERSITÉ), 
+# UNIVERSITÉ, Vol. 17 (1765), pp. 406-408
 
 ***
 [編集者注：注の転記はまだ完全ではない]
