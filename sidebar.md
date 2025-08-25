@@ -4,17 +4,13 @@
 
 - 訳文一覧（採用済み）
   - [アート／技術（ART）](articles/アート（技術、ART）.md)
-  - [コレージュ（COLLEGE）](articles/コレージュ（COLLEGE）.md)
   - [ペダゴーグ（PEDAGOGUE）](articles/ペダゴーグ（PEDAGOGUE）.md)
+  - [コレージュ（COLLEGE）](articles/コレージュ（COLLEGE）.md)
 
 - 原文と翻訳案
-  - Philosophie
-    - [原文（仏語）](translations/philosophie/original.md)
-    - [訳案 A さん](translations/philosophie/userA_translation.md)
-    - [訳案 B さん](translations/philosophie/userB_translation.md)
-  - Astronomie
-    - [原文（仏語）](translations/astronomie/original.md)
-    - [訳案 C さん](translations/astronomie/userC_translation.md)
+  - UNIVERSITE
+    - [原文（仏語）](https://enccre.academie-sciences.fr/encyclopedie/article/v17-756-0/)
+    - [訳案 A さん](translations/大学（UNIVERSITE）.md)
 
 - 翻訳支援資料
   - [用語対訳集](glossary.md)
