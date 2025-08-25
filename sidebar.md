@@ -10,7 +10,7 @@
 - 原文と翻訳案
   - UNIVERSITE
     - [原文（仏語）](https://enccre.academie-sciences.fr/encyclopedie/article/v17-756-0/)
-    - [訳案 A さん](translations/大学（UNIVERSITE）.md)
+    - [訳案 A さん](translatons/大学（UNIVERSITE）.md)
 
 - 翻訳支援資料
   - [用語対訳集](glossary.md)
