@@ -8,10 +8,8 @@
   - [コレージュ（COLLEGE）](articles/コレージュ（COLLEGE）.md)
 
 - 原文と翻訳案
-  - UNIVERSITE
-    - [原文（仏語）](https://enccre.academie-sciences.fr/encyclopedie/article/v17-756-0/)
-    - [訳案 A さん](translatons/大学（UNIVERSITE）.md)
-
+  - [大学（UNIVERSITE）](translations/大学（UNIVERSITE）.md)
+  - [子ども期（ENFANCE）](translations/子ども期（ENFANCE）.md)
 - 翻訳支援資料
   - [用語対訳集](glossary.md)
   - [翻訳スタイルガイド](styleguide.md)

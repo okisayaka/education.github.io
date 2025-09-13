@@ -1,5 +1,5 @@
 # コレージュ（COLLEGE）
-## Collège, Vol.3(1753), pp.634–637.
+## [Collège](https://enccre.academie-sciences.fr/encyclopedie/page/v3-p662/), Vol.3(1753), pp.634–637.
 
 ［編集者注：注の転記は完全ではない。本文の数字は原文の各行に対応する］
 ***
