@@ -103,3 +103,5 @@ quand les *​phi【lo】sophes*^​^[^6]​ seront rois
     Marci Antonini Philosophi luli Capitolini, XXVII, 7 : « sententia
     Platonis semper in ore illius fuit florere civitates, si aut
     philosophi imperarent aut imperantes philosopharentur » ».
+
+（作成：木村綜一郎）
