@@ -10,6 +10,7 @@
 - 原文と翻訳案
   - [大学（UNIVERSITE）](translations/大学（UNIVERSITE）.md)
   - [子ども期（ENFANCE）](translations/子ども期（ENFANCE）.md)
+  - [哲学者（PHILOSOPHE）](translations/哲学者(PHILOSOPHE).md)
 - 翻訳支援資料
   - [用語対訳集](glossary.md)
   - [翻訳スタイルガイド](styleguide.md)
